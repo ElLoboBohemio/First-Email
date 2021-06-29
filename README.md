@@ -8,7 +8,7 @@
 
 <h2 align="center">Link to <a href="https://codepen.io/bohemiolobo/full/WNRmJLX" target="_blank">Demo</a></h2>
 
-<a href="https://codepen.io/bohemiolobo/full/WNRmJLX" target="_blank"><img src="https://i.postimg.cc/BZYYnQLp/4.png" alt="Email preview"></a>
+<a href="https://codepen.io/bohemiolobo/full/WNRmJLX" target="_blank"><img src="https://i.postimg.cc/sfHQX1YT/4.png" alt="Email preview"></a>
 
 <!-- TABLE OF CONTENTS -->
 
